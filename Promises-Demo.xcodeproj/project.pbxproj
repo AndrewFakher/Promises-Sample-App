@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		49443F1B2520CA9E00D00A85 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 49443F182520CA9D00D00A85 /* 2.png */; };
+		49443F1C2520CA9E00D00A85 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 49443F192520CA9E00D00A85 /* 1.png */; };
+		49443F1D2520CA9E00D00A85 /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 49443F1A2520CA9E00D00A85 /* 3.png */; };
 		49850D9F24FABA9B007BF042 /* ParallelPromises.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49850D9E24FABA9B007BF042 /* ParallelPromises.swift */; };
 		49850DA124FABAC1007BF042 /* ChainingPromises.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49850DA024FABAC1007BF042 /* ChainingPromises.swift */; };
 		49F4EBA624F87C0700642350 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49F4EBA524F87C0700642350 /* AppDelegate.swift */; };
@@ -23,6 +26,9 @@
 
 /* Begin PBXFileReference section */
 		1C8FEE927F1F4C5FD99966D0 /* Pods-Promises-Demo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Promises-Demo.debug.xcconfig"; path = "Target Support Files/Pods-Promises-Demo/Pods-Promises-Demo.debug.xcconfig"; sourceTree = "<group>"; };
+		49443F182520CA9D00D00A85 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		49443F192520CA9E00D00A85 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		49443F1A2520CA9E00D00A85 /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
 		49850D9E24FABA9B007BF042 /* ParallelPromises.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallelPromises.swift; sourceTree = "<group>"; };
 		49850DA024FABAC1007BF042 /* ChainingPromises.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChainingPromises.swift; sourceTree = "<group>"; };
 		49F4EBA224F87C0700642350 /* Promises-Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Promises-Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -100,6 +106,9 @@
 				49F4EBAE24F87C0A00642350 /* Assets.xcassets */,
 				49F4EBC124F87D2300642350 /* Main.storyboard */,
 				49F4EBB024F87C0A00642350 /* LaunchScreen.storyboard */,
+				49443F192520CA9E00D00A85 /* 1.png */,
+				49443F182520CA9D00D00A85 /* 2.png */,
+				49443F1A2520CA9E00D00A85 /* 3.png */,
 				49F4EBB324F87C0A00642350 /* Info.plist */,
 			);
 			path = "Promises-Demo";
@@ -182,9 +191,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49443F1B2520CA9E00D00A85 /* 2.png in Resources */,
 				49F4EBC224F87D2300642350 /* Main.storyboard in Resources */,
 				49F4EBB224F87C0A00642350 /* LaunchScreen.storyboard in Resources */,
 				49F4EBAF24F87C0A00642350 /* Assets.xcassets in Resources */,
+				49443F1D2520CA9E00D00A85 /* 3.png in Resources */,
+				49443F1C2520CA9E00D00A85 /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
